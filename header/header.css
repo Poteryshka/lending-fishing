@@ -1,0 +1,16 @@
+.header{
+	background: url(../header/header__background.png);
+	width: 1326px;
+	height: 611px;
+	padding: 16px 0 0;
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.header__text{
+	position: relative;
+	color: #ffffff;
+	text-align: center;
+	font-family: Montserrat;
+	font-size: 77px;
+}
