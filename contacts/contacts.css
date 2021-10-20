@@ -1,0 +1,49 @@
+.contacts{
+	background: url(../contacts/contacts__background.png);
+	height: 300px;
+	width: 1311px;
+}
+
+.contacts__text-heading{
+	position: relative;
+	color: #000000;
+	text-align: left;
+	font-family: Montserrat;
+	font-size: 60px;
+	margin: 0;
+}
+
+.contacts__text-review{
+	position: relative;
+	top: -220px;
+	right: 20px;
+	color: #000000;
+	text-align: right;
+	font-family: Montserrat;
+	font-size: 60px;
+	margin: 0;
+}
+
+.contacts__text-numbers_style{
+	position: relative;
+	color: #000000;
+	text-align: left;
+	font-family: Montserrat;
+	font-size: 40px;
+	margin: 0;
+}
+
+.contacts__text-number1{
+	position: relative;
+	top: 10px;
+}
+
+.contacts__text-number2{
+	position: relative;
+	top: 30px;
+}
+
+.contacts__text-number3{
+	position: relative;
+	top: 50px;
+}
