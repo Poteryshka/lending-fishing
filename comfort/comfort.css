@@ -1,0 +1,25 @@
+.comfort{
+	background-color: #08937e;
+	height: 611px;
+	width: 1311px;
+}
+
+.comfort__image-left{
+	height: 611px;
+}
+
+.comfort__block-text{
+	position: relative;
+	top: -655px;
+	left: 570px;
+	height: 580px;
+	width: 700px;
+}
+
+.comfort__text{
+	position: relative;
+	text-align: right;
+	font-family: Montserrat;
+	font-size: 55px;
+	color: #ffffff;
+}
