@@ -1,0 +1,130 @@
+.fish-species{
+	background-color: #014b60;
+	height: 611px;
+	width: 1311px;
+}
+
+.fish-species__image-right{
+	position: relative;
+	float: right;
+	margin: 0;
+}
+
+.fish-species__text-heading{
+	position: relative;
+	top: 10px;
+	color: #ffffff;
+	text-align: left;
+	font-family: Montserrat;
+	font-size: 50px;
+	margin: 0;
+}
+
+.fish-species__text_style{
+	font-family: Montserrat;
+	font-size: 30px;
+	color: #ffffff;
+}
+
+.fish-species__fish{
+	position: relative;
+	width: 650px;
+	height: 450px;
+	top: 30px;
+	left: 30px;
+}
+
+.fish-species__fish_size{
+	height: 100px;
+	width: 100px;
+}
+
+.fish-species__text1{
+	position: relative;
+	top: -40px;
+	left: 10px;
+}
+
+.fish-species__img-fish2{
+	position: relative;
+	top: -200px;
+	left: 240px;
+}
+
+.fish-species__text2{
+	position: relative;
+	top: -240px;
+	left: 210px;
+}
+
+.fish-species__img-fish3{
+	position: relative;
+	top: -400px;
+	left: 480px;
+}
+
+.fish-species__text3{
+	position: relative;
+	top: -440px;
+	left: 485px;
+}
+
+.fish-species__img-fish4{
+	position: relative;
+	top: -460px;
+	left: 0px;
+}
+
+.fish-species__text4{
+	position: relative;
+	top: -490px;
+	left: -30px;
+}
+
+.fish-species__img-fish5{
+	position: relative;
+	top: -660px;
+	left: 240px;
+}
+
+.fish-species__text5{
+	position: relative;
+	top: -690px;
+	left: 235px;
+}
+
+.fish-species__img-fish6{
+	position: relative;
+	top: -860px;
+	left: 480px;
+}
+
+.fish-species__text6{
+	position: relative;
+	top: -890px;
+	left: 490px;
+}
+
+.fish-species__img-fish7{
+	position: relative;
+	top: -900px;
+	left: 0px;
+}
+
+.fish-species__text7{
+	position: relative;
+	top: -930px;
+	left: 0px;
+}
+
+.fish-species__img-fish8{
+	position: relative;
+	top: -1100px;
+	left: 240px;
+}
+
+.fish-species__text8{
+	position: relative;
+	top: -1130px;
+	left: 250px;
+}
