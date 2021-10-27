@@ -6,7 +6,7 @@
 
 .route__text-heading{
 	position: relative;
-	top: 80px;
+	top: 20px;
 	text-align: left;
 	font-family: Montserrat;
 	font-size: 55px;
@@ -23,6 +23,7 @@
 }
 
 .route__text{
+	top: -40px;
 	position: relative;
 	text-align: left;
 	font-family: Montserrat;
@@ -32,7 +33,7 @@
 
 .route__map{
 	position: relative;
-	top: -450px;
+	top: -480px;
 	left: 680px;
 	width: 600px;
 	height: 400px;
